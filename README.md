@@ -70,13 +70,3 @@ In 2015, he was introduced to React and GraphQL at a hackathon in Berlin, and af
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-
-
-
-
-
-
-
-# MAD6114March12InClassActivity
-# MAD6114March12InClassActivity
-"MADT6114March12InclassActivity" 
